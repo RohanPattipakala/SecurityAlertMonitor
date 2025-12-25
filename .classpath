@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <!-- Source directory -->
+    <classpathentry kind="src" path="src"/>
+
+    <!-- Output directory -->
+    <classpathentry kind="output" path="bin"/>
+
+    <!-- JDK (optional, jdtls can often infer this) -->
+    <!-- <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/> -->
+</classpath>
